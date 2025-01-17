@@ -5,8 +5,7 @@ class Sample
       System.out.println("Hello  World!"); 
       System.out.println("Welcome to DevOps");
       System.out.println(" webhook chenges");
-       System.out.println(" Good Evening");
-      System.out.println(" Webhook");
+       System.out.println(" Good Evening Everyone");
       
     }
   }
